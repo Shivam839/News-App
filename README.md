@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![Screenshot 2023-08-25 115216](https://github.com/Shivam839/News-App/assets/115664905/e0ddd7fd-c618-4d84-9af6-0e2cb445e7e3)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
