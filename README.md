@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# NEWS APP
 
 ![Screenshot 2023-08-25 115216](https://github.com/Shivam839/News-App/assets/115664905/e0ddd7fd-c618-4d84-9af6-0e2cb445e7e3)
 
